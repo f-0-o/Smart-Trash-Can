@@ -1,0 +1,16 @@
+def send_text():
+'''
+sends text to display including:
+- user names
+- rewards
+- leader for the week
+  
+'''
+  pass
+  
+def display_board():
+'''
+- display part of a leadership board
+'''
+  pass 
+  
