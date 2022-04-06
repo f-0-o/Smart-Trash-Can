@@ -1,4 +1,4 @@
-#import nacessery libraries
+#import necessery libraries
 from pathlib import Path
 from PIL import Image
 import sys
